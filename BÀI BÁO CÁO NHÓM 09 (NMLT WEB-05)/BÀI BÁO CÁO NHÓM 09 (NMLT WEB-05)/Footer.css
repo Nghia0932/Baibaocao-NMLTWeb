@@ -1,0 +1,23 @@
+#Footer {
+    width: 1519px;
+    height: 300px;
+    background-color: black;
+    clear: both;
+    border-radius: 10px;
+}
+
+#box {
+    padding: 40px;
+}
+
+#name {
+    font-size: 20px;
+    /* margin-bottom: 40px; */
+    color: #f5f6fa;
+    display: block;
+    position: relative;
+}
+
+#Footer #box p {
+    color: #b6f112;
+}
